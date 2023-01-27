@@ -11,3 +11,5 @@ Taylor's solutions:
 Lab01: https://www.edaplayground.com/x/UtZV
 
 Lab02: https://www.edaplayground.com/x/SQwh
+
+Lab03: https://www.edaplayground.com/x/gd39
