@@ -15,3 +15,5 @@ Lab02: https://www.edaplayground.com/x/SQwh
 Lab03: https://www.edaplayground.com/x/gd39
 
 Lab04: https://www.edaplayground.com/x/khk4
+
+Lab05: https://www.edaplayground.com/x/HG2a
